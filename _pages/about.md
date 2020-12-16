@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Master student of ECE at UCSD. I obtained my B.S. from Nanjing University in 2019. My research interest lies at the intersection of computer vision and machine learning. I am particularly interested in adversarial machine learning.
+I'm a Master student of ECE at UCSD and fortunately advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io/). I obtained my B.S. from Nanjing University in 2019. My research interest lies at the intersection of computer vision and machine learning. I am particularly interested in adversarial machine learning.
 
 <!-- ## Research Interests
 
