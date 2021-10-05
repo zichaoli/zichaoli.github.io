@@ -12,10 +12,14 @@ author_profile: true
 <!-- {% include base_path %} -->
 (\* Equal Contribution)
 
-### 2020
-* Towards Evaluating Shape Features in Adversarial Environments(submitted)
-Mingjie Sun\*, **Zichao Li\***, Chaowei Xiao, Haonan Qiu, Bhavya Kailkhura, Mingyan Liu, Bo Li.
+### 2021
+* [BFClass: A Backdoor-free Text Classification Framework](https://arxiv.org/pdf/2109.10855.pdf) <br/>
+**Zichao Li\***, Dheeraj Mekala\*, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
 
+* Can Shape Structure Features Improve Model Robustness? 
+Mingjie Sun\*, **Zichao Li\***, Chaowei Xiao\*, Haonan Qiu, Bhavya Kailkhura, Mingyan Liu, Bo Li. **ICCV**2021
+
+### 2020
 * [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>
 **Zichao Li\***, Liyuan Liu\*, Chengyu Dong and Jingbo Shang. arXiv:2010.08034. [[code](https://github.com/zichaoli/APART)]
 
