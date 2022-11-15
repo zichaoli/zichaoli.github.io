@@ -12,6 +12,10 @@ author_profile: true
 <!-- {% include base_path %} -->
 (\* Equal Contribution)
 
+### 2022
+* [Bag of Tricks for FGSM Adversarial Training](https://arxiv.org/pdf/2209.02684.pdf) <br/>
+**Zichao Li**, Li Liu, Zeyu Wang, Yunying Zhou, Cihang Xie
+
 ### 2021
 * [BFClass: A Backdoor-free Text Classification Framework](https://arxiv.org/pdf/2109.10855.pdf) <br/>
 **Zichao Li\***, Dheeraj Mekala\*, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
