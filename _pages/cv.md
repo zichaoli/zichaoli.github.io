@@ -13,13 +13,17 @@ Education
 ======
 * B.S. in ECE, Nanjing University, 2015 - 2019
 * M.S. in ECE, University of California, San Diego, 2019 - 2021
-* Ph.D in Version Control Theory, GitHub University, 2021 - Now 
+* Ph.D in CSE, University of California, San Diego, 2021 - Now 
 
 Work experience
 ======
 * August 2022 - Now: Student Researcher
   * Google Brain
   * Supervisor: Dr. Ekin Dogus Cubuk
+
+Services
+======
+* Reviewer of Conferences: NeurIPS, ICLR, AAAI, CVPR, ICCV
 
 <!-- * Fall 2015: Research Assistant
   * Github University
