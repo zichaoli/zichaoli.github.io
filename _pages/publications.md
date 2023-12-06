@@ -12,13 +12,13 @@ author_profile: true
 <!-- {% include base_path %} -->
 (\* Equal Contribution)
 ### 2023
-*[Scaling (Down) CLIP: A Comprehensive Analysis of Data,Architecture, and Training Strategies (Preprint)]
+* Scaling (Down) CLIP: A Comprehensive Analysis of Data,Architecture, and Training Strategies (Preprint)
 **Zichao Li**, Cihang Xie, Ekin Dogus Cubuk
 
-*[Tied-Augment: Controlling Representation Similarity Improves Data Augmentation](https://arxiv.org/abs/2305.13520) <br/>
+* [Tied-Augment: Controlling Representation Similarity Improves Data Augmentation](https://arxiv.org/abs/2305.13520) <br/>
 Emirhan Kurtulus, **Zichao Li**, Yann Dauphin, Ekin Dogus Cubuk. **ICML** 2023
 
-*[On the Adversarial Robustness of Camera-based 3D Object Detection](https://arxiv.org/abs/2301.10766) <br/>
+* [On the Adversarial Robustness of Camera-based 3D Object Detection](https://arxiv.org/abs/2301.10766) <br/>
 Shaoyuan Xie, **Zichao Li**, Zeyu Wang, Cihang Xie
 
 ### 2022
