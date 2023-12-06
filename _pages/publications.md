@@ -12,7 +12,7 @@ author_profile: true
 <!-- {% include base_path %} -->
 (\* Equal Contribution)
 ### 2023
-* Scaling (Down) CLIP: A Comprehensive Analysis of Data,Architecture, and Training Strategies (Preprint)
+* Scaling (Down) CLIP: A Comprehensive Analysis of Data,Architecture, and Training Strategies (Preprint) <br/>
 **Zichao Li**, Cihang Xie, Ekin Dogus Cubuk
 
 * [Tied-Augment: Controlling Representation Similarity Improves Data Augmentation](https://arxiv.org/abs/2305.13520) <br/>
