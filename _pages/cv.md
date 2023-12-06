@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in ECE, Nanjing University, 2015 - 2019
 * M.S. in ECE, University of California, San Diego, 2019 - 2021
-* Ph.D in CSE, University of California, Santa Cruz, 2021 - Now 
+* M.S. in CSE, University of California, Santa Cruz, 2021 - Now 
 
 Work experience
 ======
