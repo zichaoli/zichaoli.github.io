@@ -11,6 +11,15 @@ author_profile: true
 
 <!-- {% include base_path %} -->
 (\* Equal Contribution)
+### 2023
+*[Scaling (Down) CLIP: A Comprehensive Analysis of Data,Architecture, and Training Strategies (Preprint)]
+**Zichao Li**, Cihang Xie, Ekin Dogus Cubuk
+
+*[Tied-Augment: Controlling Representation Similarity Improves Data Augmentation](https://arxiv.org/abs/2305.13520) <br/>
+Emirhan Kurtulus, **Zichao Li**, Yann Dauphin, Ekin Dogus Cubuk. **ICML** 2023
+
+*[On the Adversarial Robustness of Camera-based 3D Object Detection](https://arxiv.org/abs/2301.10766) <br/>
+Shaoyuan Xie, **Zichao Li**, Zeyu Wang, Cihang Xie
 
 ### 2022
 * [Bag of Tricks for FGSM Adversarial Training](https://arxiv.org/pdf/2209.02684.pdf) <br/>
@@ -21,7 +30,7 @@ author_profile: true
 **Zichao Li\***, Dheeraj Mekala\*, Chengyu Dong and Jingbo Shang. **EMNLP** (Findings) 2021. 
 
 * Can Shape Structure Features Improve Model Robustness? 
-Mingjie Sun\*, **Zichao Li\***, Chaowei Xiao\*, Haonan Qiu, Bhavya Kailkhura, Mingyan Liu, Bo Li. **ICCV**2021
+Mingjie Sun\*, **Zichao Li\***, Chaowei Xiao\*, Haonan Qiu, Bhavya Kailkhura, Mingyan Liu, Bo Li. **ICCV** 2021
 
 ### 2020
 * [Overfitting or Underfitting? Understand Robustness Drop in Adversarial Training](https://arxiv.org/abs/2010.08034) <br/>

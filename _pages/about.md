@@ -9,17 +9,16 @@ redirect_from:
 ---
 
 
-I'm a PhD student of CSE at UCSC. I obtained my B.S. from Nanjing University in 2019 and my M.S. from UCSD advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io01/). My research interest lies at the intersection of computer vision and machine learning. I am particularly interested in adversarial machine learning.
+I'm a PhD student of CSE at UCSC. I obtained my B.S. from Nanjing University in 2019 and my M.S. from UCSD advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io01/). I'm actively in the job market now.
 
-<!-- ## Research Interests
+## Research Interests
 
-I'm broadly interested in Data Mining Problems and Applications:
-- Text Mining, Information Extraction, and Natural Language Processing
-- Structured Mining in Large-Scale Text-Rich Networks
-- Understanding and Improving Deep Neural Networks
-- Interdisciplinary Applications (e.g., Biomedical, IoT, ...)
+I'm broadly interested in deep learing:
+- Generative AI
+- AI for Science (e.g. AI for material science)
+- Multimodal learning
+- AI Safty, including model robustness and attack
 
-Most of my research projects focus on (1) developing principled data-driven approaches with light human effort and (2) building effective and robust machine learning models in an efficient way. -->
 
 
 
