@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a Master student of CSE at UCSC. I obtained my B.S. from Nanjing University in 2019 and my M.S. from UCSD advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io01/). I'm actively in the job market now.
+I am currently an Advanced AI Research Scientist (Manager) at Accenture. I obtained my B.S. from Nanjing University in 2019 and my M.S. from UCSC and UCSD advised by Prof. [Jingbo Shang](https://shangjingbo1226.github.io01/).
 
 ## Research Interests
 
