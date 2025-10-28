@@ -17,9 +17,11 @@ Education
 
 Work experience
 ======
-* August 2022 - Now: Student Researcher
+* August 2022 - Dec 2023: Student Researcher
   * Google Brain
   * Supervisor: Dr. Ekin Dogus Cubuk
+* June 2024 - Now: Research Scientist
+  * Accenture
 
 Services
 ======
